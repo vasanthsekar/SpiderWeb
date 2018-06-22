@@ -1,0 +1,12 @@
+<xml version=”1.0″ encoding=”UTF-8″ ?>
+<items>
+<item>
+<model>MODEL_ID_100</model>
+<description>model descriptions</description>
+</item>
+<item>
+<model>MODEL_ID_101</model>
+<description>model descriptions</description>
+</item>
+</items>
+</xml>
